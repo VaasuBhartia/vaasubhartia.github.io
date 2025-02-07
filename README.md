@@ -1,2 +1,2 @@
-# vaasubhartia.github.io
-Personal Website
+# kalanakt.github.io
+A Simple Personal Web-Site
